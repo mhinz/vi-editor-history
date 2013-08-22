@@ -54,7 +54,7 @@ EDITOR HISTORY
 - author: [Bram Moolenaar](http://en.wikipedia.org/wiki/Bram_Moolenaar)
 - created in 1988 (as _Vi IMitation 1.0_)
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
-- renamed in version 2.0 to _Vi iMproved_ (December 14, 1993)
+- renamed in version 2.0 to _Vi IMproved_ (December 14, 1993)
 
 #### nvi
 
