@@ -23,6 +23,8 @@ EDITOR HISTORY
 - first release: 1976
 - developed as an advanced version of ed
 - stands for: _extended_
+- got code of em (_editor for mortals_) from George Coulouris at University College in London
+- improved em -> en -> maybe other versions -> ex
 
 #### vi
 
