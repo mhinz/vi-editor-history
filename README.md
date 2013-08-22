@@ -61,10 +61,9 @@ EDITOR HISTORY
 
 #### nvi
 
-- derived from vi
-- influenced by elvis
+- derived from the first version of elvis
 - author: [Keith Bostic](http://en.wikipedia.org/wiki/Keith_Bostic)
-- first release: 1980 (as part of [4BSD](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution))
+- first release: 1994 (as part of [4.4BSD](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution))
 - stands for: _new vi_
 
 Copyright
