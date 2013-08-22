@@ -4,7 +4,7 @@ EDITOR HISTORY
 #### QED
 
 - authors: [Peter Deutsch](http://en.wikipedia.org/wiki/L_Peter_Deutsch) & [Butler Lampson](http://en.wikipedia.org/wiki/Butler_Lampson) & [Dana Angluin](http://en.wikipedia.org/wiki/Dana_Angluin)
-- date: 1965/66
+- first release: 1965/66
 - stands for: _quick editor_
 - developed for the [Berkely Timesharing System](http://en.wikipedia.org/wiki/Berkeley_Timesharing_System) running on a [SDS 940](http://en.wikipedia.org/wiki/SDS_940)
 
@@ -12,7 +12,7 @@ EDITOR HISTORY
 
 - derived from QED
 - author: [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)
-- date: 1971
+- first release: 1971
 - (probably) stands for: _editor_
 - written in PDP-11/20 assembler
 
@@ -20,7 +20,7 @@ EDITOR HISTORY
 
 - derived from ed
 - author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
-- date: 1976
+- first release: 1976
 - developed as an advanced version of ed
 - stands for: _extended_
 
@@ -28,7 +28,7 @@ EDITOR HISTORY
 
 - derived from ex
 - author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
-- date: 1979
+- first release: 1979
 - it was an actual command that started ex in visual mode
 - stands for: _visual (in ex)_
 
@@ -36,7 +36,7 @@ EDITOR HISTORY
 
 - derived from vi
 - author: [Tim Thompson](http://nosuch.com/tjt)
-- date: 1987
+- first release: 1987
 - released on usenet: [web link](https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J)
 - stands for: _ST Editor for VI Enthusiasts_
 
@@ -44,10 +44,17 @@ EDITOR HISTORY
 
 - derived from vi
 - author: Steve Kirkendall
-- date: 1990
+- first release: 1990
 - homepage: http://elvis.the-little-red-haired-girl.org
 - released on usenet: [web link](https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ)
 
+#### Vim
+
+- derived from vi
+- author: [Bram Moolenaar](http://en.wikipedia.org/wiki/Bram_Moolenaar)
+- created in 1988 (as _Vi IMitation 1.0_)
+- first release: November 2, 1991 (as _Vi IMitation_ 1.14)
+- renamed in version 2.0 to _Vi iMproved_ (December 14, 1993)
 
 Copyright
 ---------
