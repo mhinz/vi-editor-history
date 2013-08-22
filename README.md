@@ -15,6 +15,13 @@ EDITOR HISTORY
 - (probably) stands for: _editor_
 - written in PDP-11/20 assembler
 
+#### ex
+
+- author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
+- date: 1976
+- developed as an advanced version of ed
+- stands for: _extended_
+
 Copyright
 ---------
 
