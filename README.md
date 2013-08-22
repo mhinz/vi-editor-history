@@ -13,18 +13,19 @@ EDITOR HISTORY
 - derived from QED
 - author: [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)
 - first release: 1971
-- (probably) stands for: _editor_
+- stands for: _editor_
 - written in PDP-11/20 assembler
 
 #### ex
 
 - derived from ed
-- author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
+- author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy) & colleagues
 - first release: 1976
 - developed as an advanced version of ed
 - stands for: _extended_
-- got code of em (_editor for mortals_) from George Coulouris at University College in London
-- improved em -> en -> maybe other versions -> ex
+- Joy and colleagues got code of em ( _editor for mortals_ ) from George Coulouris at University College in London
+- they improved em -> en
+- Joy doesn't know anymore if there was eo or op, but ultimately ex was written
 
 #### vi
 
