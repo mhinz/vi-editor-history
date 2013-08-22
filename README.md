@@ -10,6 +10,7 @@ EDITOR HISTORY
 
 #### ed
 
+- derived from QED
 - author: [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)
 - date: 1971
 - (probably) stands for: _editor_
@@ -17,6 +18,7 @@ EDITOR HISTORY
 
 #### ex
 
+- derived from ed
 - author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
 - date: 1976
 - developed as an advanced version of ed
@@ -24,10 +26,27 @@ EDITOR HISTORY
 
 #### vi
 
+- derived from ex
 - author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
 - date: 1979
 - it was an actual command that started ex in visual mode
 - stands for: _visual (in ex)_
+
+#### STEVIE
+
+- derive from vi
+- author: [Tim Thompson](http://nosuch.com/tjt)
+- date: 1987
+- released on usenet: [web link](https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J)
+- stands for: _ST Editor for VI Enthusiasts_
+
+#### elvis
+
+- derived from vi
+- author: Steve Kirkendall
+- date: 1990
+- released on usenet: [web link](https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ)
+
 
 Copyright
 ---------
