@@ -34,7 +34,7 @@ EDITOR HISTORY
 
 #### STEVIE
 
-- derive from vi
+- derived from vi
 - author: [Tim Thompson](http://nosuch.com/tjt)
 - date: 1987
 - released on usenet: [web link](https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J)
@@ -45,6 +45,7 @@ EDITOR HISTORY
 - derived from vi
 - author: Steve Kirkendall
 - date: 1990
+- homepage: http://elvis.the-little-red-haired-girl.org
 - released on usenet: [web link](https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ)
 
 
