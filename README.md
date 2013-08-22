@@ -22,6 +22,13 @@ EDITOR HISTORY
 - developed as an advanced version of ed
 - stands for: _extended_
 
+#### vi
+
+- author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
+- date: 1979
+- it was an actual command that started ex in visual mode
+- stands for: _visual (in ex)_
+
 Copyright
 ---------
 
