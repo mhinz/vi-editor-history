@@ -56,6 +56,14 @@ EDITOR HISTORY
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
 - renamed in version 2.0 to _Vi iMproved_ (December 14, 1993)
 
+#### nvi
+
+- derived from vi
+- influenced by elvis
+- author: [Keith Bostic](http://en.wikipedia.org/wiki/Keith_Bostic)
+- first release: 1980 (as part of [4BSD](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution))
+- stands for: _new vi_
+
 Copyright
 ---------
 
