@@ -11,7 +11,7 @@ EDITOR HISTORY
 #### ed
 
 - derived from QED
-- author: [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)
+- author: [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer\))
 - first release: 1971
 - stands for: _editor_
 - written in PDP-11/20 assembler
