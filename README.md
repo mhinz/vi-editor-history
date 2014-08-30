@@ -53,7 +53,7 @@ EDITOR HISTORY
 
 #### Vim
 
-- derived from vi
+- derived from STEVIE
 - author: [Bram Moolenaar](http://en.wikipedia.org/wiki/Bram_Moolenaar)
 - created in 1988 (as _Vi IMitation 1.0_)
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
