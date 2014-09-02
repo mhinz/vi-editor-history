@@ -1,5 +1,18 @@
 == EDITOR HISTORY
 
+=== Contents
+
+* <<qed,QED>>
+* <<ed,ed>>
+* <<em,em>>
+* <<ex,ex>>
+* <<vi,vi>>
+* <<stevie,STEVIE>>
+* <<elvis,elvis>>
+* <<vim,Vim>>
+* <<nvi,nvi>>
+
+[[qed]]
 ==== QED
 
 - authors: http://en.wikipedia.org/wiki/L_Peter_Deutsch[Peter Deutsch],
@@ -9,6 +22,7 @@
 - stands for: _quick editor_
 - developed for the http://en.wikipedia.org/wiki/Berkeley_Timesharing_System[Berkely Timesharing System] running on a http://en.wikipedia.org/wiki/SDS_940[SDS 940]
 
+[[ed]]
 ==== ed
 
 - derived from QED
@@ -18,12 +32,14 @@
 - the original Unix editor
 - written in PDP-11/20 assembler
 
+[[em]]
 ==== em
 
 - derive from ed
 - author: George Coulouris
 - first release: 1973
 
+[[ex]]
 ==== ex
 
 - derived from em
@@ -35,6 +51,7 @@
 - they improved em -> en
 - Joy doesn't know anymore if there was eo or op, but ultimately ex was written
 
+[[vi]]
 ==== vi
 
 - derived from ex
@@ -43,6 +60,7 @@
 - it was an actual command that started ex in visual mode
 - stands for: _visual (in ex)_
 
+[[stevie]]
 ==== STEVIE
 
 - derived from vi
@@ -51,6 +69,7 @@
 - released on usenet: https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J[Google Groups]
 - stands for: _ST Editor for VI Enthusiasts_
 
+[[elvis]]
 ==== elvis
 
 - derived from vi
@@ -59,6 +78,7 @@
 - http://elvis.the-little-red-haired-girl.org[Homepage]
 - released on usenet: https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ[Google Groups]
 
+[[vim]]
 ==== Vim
 
 - derived from STEVIE
@@ -67,6 +87,7 @@
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
 - renamed in version 2.0 to _Vi IMproved_ (December 14, 1993)
 
+[[nvi]]
 ==== nvi
 
 - derived from the first version of elvis
