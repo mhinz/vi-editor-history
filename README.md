@@ -14,11 +14,18 @@ EDITOR HISTORY
 - author: [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer\))
 - first release: 1971
 - stands for: _editor_
+- the original Unix editor
 - written in PDP-11/20 assembler
+
+#### em
+
+- derive from ed
+- author: George Coulouris
+- first release: 1973
 
 #### ex
 
-- derived from ed
+- derived from em
 - author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy) & colleagues
 - first release: 1976
 - developed as an advanced version of ed
