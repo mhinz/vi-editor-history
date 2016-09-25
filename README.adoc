@@ -37,7 +37,7 @@
 
 - derived from ed
 - author: George Coulouris
-- first release: 1973
+- first release: http://www.eecs.qmul.ac.uk/~gc/history[1976]
 - stands for: _editor for mortals_
 
 [[ex]]
