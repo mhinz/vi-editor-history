@@ -35,9 +35,10 @@
 [[em]]
 ==== em
 
-- derive from ed
+- derived from ed
 - author: George Coulouris
 - first release: 1973
+- stands for: _editor for mortals_
 
 [[ex]]
 ==== ex
