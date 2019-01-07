@@ -1,19 +1,20 @@
-== EDITOR HISTORY
+# EDITOR HISTORY
 
-=== Contents
+_...of the vi side of history._
 
-* <<qed,QED>>
-* <<ed,ed>>
-* <<em,em>>
-* <<ex,ex>>
-* <<vi,vi>>
-* <<stevie,STEVIE>>
-* <<elvis,elvis>>
-* <<vim,Vim>>
-* <<nvi,nvi>>
+#### Contents
 
-[[qed]]
-==== QED
+- [QED](#qed)
+- [ed](#ed)
+- [em](#em)
+- [ex](#ex)
+- [vi](#vi)
+- [STEVIE](#stevie)
+- [elvis](#elvis)
+- [Vim](#vim)
+- [nvi](#nvi)
+
+### QED
 
 - authors: http://en.wikipedia.org/wiki/L_Peter_Deutsch[Peter Deutsch],
            http://en.wikipedia.org/wiki/Butler_Lampson[Butler Lampson],
@@ -22,8 +23,7 @@
 - stands for: _quick editor_
 - developed for the http://en.wikipedia.org/wiki/Berkeley_Timesharing_System[Berkely Timesharing System] running on a http://en.wikipedia.org/wiki/SDS_940[SDS 940]
 
-[[ed]]
-==== ed
+### ed
 
 - derived from QED
 - author: http://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)[Ken Thompson]
@@ -32,16 +32,14 @@
 - the original Unix editor
 - written in PDP-11/20 assembler
 
-[[em]]
-==== em
+### em
 
 - derived from ed
 - author: George Coulouris
 - first release: http://www.eecs.qmul.ac.uk/~gc/history[1976]
 - stands for: _editor for mortals_
 
-[[ex]]
-==== ex
+### ex
 
 - derived from em
 - author: http://en.wikipedia.org/wiki/Bill_Joy[Bill Joy] & colleagues
@@ -52,8 +50,7 @@
 - they improved em -> en
 - Joy doesn't know anymore if there was eo or op, but ultimately ex was written
 
-[[vi]]
-==== vi
+### vi
 
 - derived from ex
 - author: http://en.wikipedia.org/wiki/Bill_Joy[Bill Joy]
@@ -61,8 +58,7 @@
 - it was an actual command that started ex in visual mode
 - stands for: _visual (in ex)_
 
-[[stevie]]
-==== STEVIE
+### STEVIE
 
 - derived from vi
 - author: http://nosuch.com/tjt[Tim Thompson]
@@ -70,8 +66,7 @@
 - released on usenet: https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J[Google Groups]
 - stands for: _ST Editor for VI Enthusiasts_
 
-[[elvis]]
-==== elvis
+### elvis
 
 - derived from vi
 - author: Steve Kirkendall
@@ -79,8 +74,7 @@
 - http://elvis.the-little-red-haired-girl.org[Homepage]
 - released on usenet: https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ[Google Groups]
 
-[[vim]]
-==== Vim
+### Vim
 
 - derived from STEVIE
 - author: http://en.wikipedia.org/wiki/Bram_Moolenaar[Bram Moolenaar]
@@ -88,16 +82,9 @@
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
 - renamed in version 2.0 to _Vi IMproved_ (December 14, 1993)
 
-[[nvi]]
-==== nvi
+### nvi
 
 - derived from the first version of elvis
 - author: http://en.wikipedia.org/wiki/Keith_Bostic[Keith Bostic]
 - first release: 1994 (as part of http://en.wikipedia.org/wiki/Berkeley_Software_Distribution[4.4BSD])
 - stands for: _new vi_
-
-=== Copyright
-
-Marco Hinz © 2014
-
-http://creativecommons.org/licenses/by/3.0/legalcode[Creative Commons Attribution 3.0 Unported]
