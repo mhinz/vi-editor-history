@@ -13,6 +13,7 @@ _...of the vi side of history._
 - [elvis](#elvis)
 - [Vim](#vim)
 - [nvi](#nvi)
+- [Neovim](#neovim)
 
 ### [QED](https://en.wikipedia.org/wiki/QED_(text_editor))
 
@@ -26,7 +27,7 @@ _...of the vi side of history._
 
 ### [ed](https://en.wikipedia.org/wiki/Ed_(text_editor))
 
-- derived from QED
+- derived from [QED](#qed)
 - author: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer))
 - first release: 1971
 - stands for: _editor_
@@ -35,14 +36,14 @@ _...of the vi side of history._
 
 ### em
 
-- derived from ed
+- derived from [ed](#ed)
 - author: George Coulouris
 - first release: [1976](http://www.eecs.qmul.ac.uk/~gc/history)
 - stands for: _editor for mortals_
 
 ### [ex](http://ex-vi.sourceforge.net)
 
-- derived from em
+- derived from [em](#em)
 - author: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) & colleagues
 - first release: 1976
 - developed as an advanced version of ed
@@ -55,7 +56,7 @@ _...of the vi side of history._
 
 ### [vi](http://ex-vi.sourceforge.net)
 
-- derived from ex
+- derived from [ex](#ex)
 - author: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy)
 - first release: 1979
 - it was an actual command that started ex in visual mode
@@ -65,7 +66,7 @@ _...of the vi side of history._
 
 ### [STEVIE](http://nosuch.com/tjt/stevie)
 
-- derived from vi
+- derived from [vi](#vi)
 - author: [Tim Thompson](http://nosuch.com/tjt)
 - first release: 1987
 - released on usenet: [comp.sys.atari.st](https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J)
@@ -73,14 +74,14 @@ _...of the vi side of history._
 
 ### [elvis](http://elvis.the-little-red-haired-girl.org)
 
-- derived from vi
+- derived from [vi](#vi)
 - author: Steve Kirkendall
 - first release: 1990
 - released on usenet: [comp.editors](https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ)
 
 ### [Vim](https://www.vim.org)
 
-- derived from STEVIE
+- derived from [STEVIE](#stevie)
 - author: [Bram Moolenaar](https://en.wikipedia.org/wiki/Bram_Moolenaar)
 - created in 1988 (as _Vi IMitation 1.0_)
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
@@ -88,14 +89,14 @@ _...of the vi side of history._
 
 ### [nvi](https://sites.google.com/a/bostic.com/keithbostic/vi)
 
-- derived from the first version of elvis
+- derived from the first version of [elvis](#elvis)
 - author: [Keith Bostic](https://en.wikipedia.org/wiki/Keith_Bostic)
 - first release: 1994 (as part of [4.4BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution))
 - stands for: _new vi_
 
 ### [Neovim](https://github.com/neovim/neovim/wiki)
 
-- derived from Vim
+- derived from [Vim](#vim)
 - author: [Thiago de Arruda](https://github.com/tarruda)
 - first release: [January 31, 2014](https://github.com/neovim/neovim/commit/72cf89bce)
 - manpage: https://manpages.debian.org/unstable/neovim-runtime/nvim.1.en.html
