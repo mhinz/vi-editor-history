@@ -99,5 +99,5 @@ _...of the vi side of history._
 - derived from [Vim](#vim)
 - author: [Thiago de Arruda](https://github.com/tarruda)
 - first release: [January 31, 2014](https://github.com/neovim/neovim/commit/72cf89bce)
-- manpage: https://manpages.debian.org/unstable/neovim-runtime/nvim.1.en.html
+- manpage: https://manpages.debian.org/unstable/nvim
 - repository: https://github.com/neovim/neovim
