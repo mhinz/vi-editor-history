@@ -92,3 +92,11 @@ _...of the vi side of history._
 - author: [Keith Bostic](https://en.wikipedia.org/wiki/Keith_Bostic)
 - first release: 1994 (as part of [4.4BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution))
 - stands for: _new vi_
+
+### [Neovim](https://github.com/neovim/neovim/wiki)
+
+- derived from Vim
+- author: [Thiago de Arruda](https://github.com/tarruda)
+- first release: [January 31, 2014](https://github.com/neovim/neovim/commit/72cf89bce)
+- manpage: https://manpages.debian.org/unstable/neovim-runtime/nvim.1.en.html
+- repository: https://github.com/neovim/neovim
