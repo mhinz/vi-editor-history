@@ -51,6 +51,7 @@ _...of the vi side of history._
 - they improved em -> en
 - Joy doesn't know anymore if there was eo or op, but ultimately ex was written
 - manpage: http://ex-vi.sourceforge.net/ex.html
+- POSIX spec: http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ex.html
 
 ### [vi](http://ex-vi.sourceforge.net)
 
@@ -60,6 +61,7 @@ _...of the vi side of history._
 - it was an actual command that started ex in visual mode
 - stands for: _visual (in ex)_
 - manpage: http://ex-vi.sourceforge.net/vi.html
+- POSIX spec: https://pubs.opengroup.org/onlinepubs/9699919799/utilities/vi.html
 
 ### [STEVIE](http://nosuch.com/tjt/stevie)
 
