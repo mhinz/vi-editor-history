@@ -22,6 +22,7 @@ _...of the vi side of history._
 - first release: 1965/66
 - stands for: _quick editor_
 - developed for the [Berkely Timesharing System](http://en.wikipedia.org/wiki/Berkeley_Timesharing_System) running on a [SDS 940](http://en.wikipedia.org/wiki/SDS_940)
+- sources: https://github.com/arnoldrobbins/qed-archive
 
 ### ed
 
