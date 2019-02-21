@@ -50,7 +50,7 @@ _...of the vi side of history._
 - they improved em -> en
 - Joy doesn't know anymore if there was eo or op, but ultimately ex was written
 
-### vi
+### [vi](http://ex-vi.sourceforge.net)
 
 - derived from ex
 - author: [Bill Joy](http://en.wikipedia.org/wiki/Bill_Joy)
@@ -58,7 +58,7 @@ _...of the vi side of history._
 - it was an actual command that started ex in visual mode
 - stands for: _visual (in ex)_
 
-### STEVIE
+### [STEVIE](http://nosuch.com/tjt/stevie)
 
 - derived from vi
 - author: [Tim Thompson](http://nosuch.com/tjt)
@@ -66,12 +66,11 @@ _...of the vi side of history._
 - released on usenet: [comp.sys.atari.st](https://groups.google.com/forum/#!original/comp.sys.atari.st/J65TpLBhfss/Mop3jYhvuY0J)
 - stands for: _ST Editor for VI Enthusiasts_
 
-### elvis
+### [elvis](http://elvis.the-little-red-haired-girl.org)
 
 - derived from vi
 - author: Steve Kirkendall
 - first release: 1990
-- [Homepage](http://elvis.the-little-red-haired-girl.org)
 - released on usenet: [comp.editors](https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ)
 
 ### [Vim](https://www.vim.org)
@@ -82,7 +81,7 @@ _...of the vi side of history._
 - first release: November 2, 1991 (as _Vi IMitation_ 1.14)
 - renamed in version 2.0 to _Vi IMproved_ (December 14, 1993)
 
-### nvi
+### [nvi](https://sites.google.com/a/bostic.com/keithbostic/vi)
 
 - derived from the first version of elvis
 - author: [Keith Bostic](http://en.wikipedia.org/wiki/Keith_Bostic)
