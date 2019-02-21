@@ -74,7 +74,7 @@ _...of the vi side of history._
 - [Homepage](http://elvis.the-little-red-haired-girl.org)
 - released on usenet: [comp.editors](https://groups.google.com/forum/#!original/comp.editors/rdUYDzANsMw/ErR-8j1VCfQJ)
 
-### Vim
+### [Vim](https://www.vim.org)
 
 - derived from STEVIE
 - author: [Bram Moolenaar](http://en.wikipedia.org/wiki/Bram_Moolenaar)
